@@ -1,17 +1,31 @@
 {
     "cSpell.words": [
         "Actualizar",
+        "archivo",
         "bgcolor",
         "Borrar",
         "cargar",
+        "completo",
+        "cuenta",
+        "debe",
+        "Dentro",
         "DETALLE",
         "Editar",
         "Eliminar",
         "ESTADO",
         "FACTURA",
         "FECHA",
+        "grupo",
+        "incluir",
+        "indicando",
         "Ingresar",
+        "Nombre",
+        "Osorto",
+        "proyecto",
+        "Sección",
+        "siguiente",
         "valores",
         "VENCIMIENTO"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
